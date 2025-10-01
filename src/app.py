@@ -74,6 +74,42 @@ activities = {
         "schedule": "Fridays, 3:30 PM - 5:00 PM",
         "max_participants": 20,
         "participants": []
+    },
+    "Soccer Team": {
+        "description": "Competitive soccer training and games",
+        "schedule": "Mondays and Wednesdays, 4:00 PM - 6:00 PM",
+        "max_participants": 20,
+        "participants": []
+    },
+    "Tennis Club": {
+        "description": "Learn to play tennis and compete in tournaments",
+        "schedule": "Tuesdays and Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 12,
+        "participants": []
+    },
+    "Painting Club": {
+        "description": "Learn to paint with different mediums",
+        "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 15,
+        "participants": []
+    },
+    "Sculpture Club": {
+        "description": "Learn to sculpt with clay and other materials",
+        "schedule": "Fridays, 3:30 PM - 5:00 PM",
+        "max_participants": 10,
+        "participants": []
+    },
+    "Math Club": {
+        "description": "Solve challenging math problems and compete in competitions",
+        "schedule": "Tuesdays, 3:30 PM - 4:30 PM",
+        "max_participants": 20,
+        "participants": []
+    },
+    "Philosophy Club": {
+        "description": "Discuss philosophical concepts and ideas",
+        "schedule": "Thursdays, 3:30 PM - 4:30 PM",
+        "max_participants": 25,
+        "participants": []
     }
 }
 
