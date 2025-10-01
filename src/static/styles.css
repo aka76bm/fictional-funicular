@@ -89,6 +89,21 @@ section h3 {
   font-size: 0.9em;
 }
 
+.activity-card .participants-container {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid #ddd;
+}
+
+.activity-card .participants-container h5 {
+  margin-bottom: 5px;
+}
+
+.activity-card .participants-container ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
 .delete-btn {
     background: none;
     border: none;
