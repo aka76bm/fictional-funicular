@@ -75,18 +75,19 @@ section h3 {
 }
 
 .activity-card ul {
-  list-style-type: none;
-  padding-left: 0;
+  list-style-type: disc;
+  padding-left: 20px;
 }
 
 .activity-card li {
-  background-color: #e0e0e0;
-  border-radius: 3px;
-  padding: 2px 8px;
-  display: inline-block;
-  margin-right: 5px;
   margin-bottom: 5px;
   font-size: 0.9em;
+}
+
+.participants-container {
+  margin-top: 15px;
+  padding-top: 10px;
+  border-top: 1px solid #eee;
 }
 
 .activity-card .participants-container {
